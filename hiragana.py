@@ -5,7 +5,7 @@ import random
 
 ttfontname = "C:\\Windows\\Fonts\\meiryob.ttc"
 fontsize = 36
-hiragana = "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん"
+hiragana = "あいうえおぁぃぅぇぉかきくけこがぎぐげごさしすせそざじずぜぞたちつてとだぢづでどなにぬねのはひふへほばびぶべぼぱぴぷぺぽまみむめもやゆよらりるれろわをんっゃゅょゎ"
 text = ""
 text = text + random.choice(hiragana)
 text = text + random.choice(hiragana)
